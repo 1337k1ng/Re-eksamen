@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/PatrickJahn/ca3.svg?branch=master)](https://travis-ci.org/PatrickJahn/ca3)
+[![Build Status](https://travis-ci.org/1337k1ng/Re-eksamen.svg?branch=main)](https://travis-ci.org/1337k1ng/Re-eksamen)
 
 ## CA3 - How to use
 ### Preconditions
